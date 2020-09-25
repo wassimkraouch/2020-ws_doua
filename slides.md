@@ -1,6 +1,6 @@
 # Digital Organization
 
-v1.3.0
+v1.3  .0
 
 > "Experience rather then watch!"
 >
@@ -122,19 +122,7 @@ v1.3.0
 
 ---
 
-### Understand Terminal Commands
-
-
-1. [kesavanbr_pocket-guide-linux-commands.pdf](kesavanbr_pocket-guide-linux-commands.pdf)
-
-1. [Linux-commands-cheatsheet.pdf](Linux-commands-cheatsheet.pdf)
-
-1. [davechild_linux-command-line.pdf](davechild_linux-command-line.pdf)
-
-
----
-
-### Objectives
+## Objectives
 
 We want to achieve the following situation:
 
@@ -144,11 +132,23 @@ We want to achieve the following situation:
 
 ---
 
-### Objectives (ctd.)
+## Objectives (ctd.)
 
 * Then you and your partner will use one of your accounts to setup a joint repository `2020-ws_doabcd` for your coursework.
 * You can then both commit to this common folder.
 * On the day of your presentation, clone the common repository to a local harddrive and present it.
+
+---
+
+### Understand Terminal Commands
+
+
+1. [kesavanbr_pocket-guide-linux-commands.pdf](kesavanbr_pocket-guide-linux-commands.pdf)
+
+1. [Linux-commands-cheatsheet.pdf](Linux-commands-cheatsheet.pdf)
+
+1. [davechild_linux-command-line.pdf](davechild_linux-command-line.pdf)
+
 
 ---
 
