@@ -1,5 +1,7 @@
 # Digital Organization
 
+v1.2.0
+
 > "Experience rather then watch!"
 >
 > — Ulrich Anders
@@ -107,7 +109,7 @@
 
 ---
 
-#### 05.11.2020 Reinventing Organization CV + CH
+#### 05.11.2020
 
 - Reinventing Organization CH + KZ
 - Morningstar, Sipgate UA
@@ -116,24 +118,148 @@
 
 ### Dropped
 
-- Continuous Deployment ?? + KZ
+- Continuous Deployment
 
 ---
 
-## WHEN
+### Understand Terminal Commands
 
-![cw-alloc](2020-09-17_cw-alloc.jpg)
+- [davechild_linux-command-line.pdf](davechild_linux-command-line.pdf)
+
+- [kesavanbr_pocket-guide-linux-commands.pdf](kesavanbr_pocket-guide-linux-commands.pdf)
+
+- [Linux-commands-cheatsheet.pdf](Linux-commands-cheatsheet.pdf)
+
+---
+
+### Pre-requisites |
+
+Backup your computers properly.
+
+Please install the following software:
+
+- VS Code: https://code.visualstudio.com/
+
+- PCs: git: https://git-scm.com/
+
+- GitHub Desktop: https://desktop.github.com/
 
 ---
 
-## CHANGES
+### Pre-requisites ||
 
-- What's going on?
-- Re-alloc
-- Understanding stuff
-- Sorting out technology
+Please install the following software:
+
+- Chrome: https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI7L6QysrR6wIVYoBQBh04vgqJEAAYASAAEgIygvD_BwE&gclsrc=aw.ds
+
+- XnView MP, if you want to edit pictures: https://www.xnview.com/en/
+
+- For drawing pictures you can use Powerpoint or Paint 3D
 
 ---
+
+### Test git
+
+- Open command shell / terminal. Type
+
+  ```sh
+  git --version
+  ```
+
+* If further installations are necessary, e.g. Mac Developer Tools, please carry them out.
+
+---
+
+### Node
+
+- Install node 12.18.4 LTS: https://nodejs.org/en/
+
+- Open command shell:
+
+  ```sh
+  node --version
+  ```
+
+* React to error messages if there are any. You might need to give permissions:
+
+  [https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
+
+---
+
+### GitHub
+
+Sign on into GitHub.
+
+Recommendation is to use firstnamelastname in small letters or a similar name user name: https://github.com/
+
+Enter this account also in GitHub Desktop
+
+---
+
+### GitHub Repository
+
+Make a new GitHub Repository, e.g. `2020-ws_doxy`, where you replace xy with your initials.
+
+Clone this repository onto your local harddrive. For this you can use GitHub Desktop or
+
+```sh
+git clone path-to-your-repository.git
+```
+
+---
+
+### slides.md
+
+Generate a `slides.md` file in the locally cloned folder. As a first content you can you the content from [https://github.com/webpro/reveal-md](https://github.com/webpro/reveal-md), i.e.
+
+```md
+# Title
+
+- Point 1
+- Point 2
+
+---
+
+## Second slide
+
+> Best quote ever.
+
+Note: speaker notes FTW!
+```
+
+### reveal-md
+
+We are going to use reveal-md.
+
+Open terminal and install globally by:
+
+```sh
+npm install -g reveal-md
+```
+
+Please read:
+
+https://github.com/webpro/reveal-md
+
+---
+
+### Camunda
+
+Please also download
+
+- Camunda: https://camunda.com/download/modeler/
+
+---
+
+### Markdown
+
+Play around with Markdown (we will cover this also in the lecture!)
+
+https://www.markdownguide.org/getting-started/
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://code.visualstudio.com/docs/languages/markdown
 
 ### Markdown (text formatting)
 
