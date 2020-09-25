@@ -190,17 +190,17 @@ Please install the following software:
 
 Sign on into GitHub.
 
-Recommendation is to use firstnamelastname in small letters or a similar name user name: https://github.com/
+Recommendation is to use firstnamelastname in small letters or a similar name as user name: https://github.com/
 
-Enter this account also in GitHub Desktop
+Enter this account also in GitHub Desktop.
 
 ---
 
 ### GitHub Repository
 
-Make a new GitHub Repository, e.g. `2020-ws_doxy`, where you replace xy with your initials.
+Make a new GitHub Repository on GitHub, e.g. `2020-ws_doxy`, where you replace xy with your initials.
 
-Clone this repository onto your local harddrive. For this you can use GitHub Desktop or
+Clone this repository onto your local harddrive. For this you can use `GitHub Desktop` or
 
 ```sh
 git clone path-to-your-repository.git
@@ -210,7 +210,7 @@ git clone path-to-your-repository.git
 
 ### slides.md
 
-Generate a `slides.md` file in the locally cloned folder. As a first content you can you the content from [https://github.com/webpro/reveal-md](https://github.com/webpro/reveal-md), i.e.
+Generate a `slides.md` file in the locally cloned folder. As a first content you can use the content from [https://github.com/webpro/reveal-md](https://github.com/webpro/reveal-md), i.e.
 
 ```md
 # Title
@@ -229,15 +229,17 @@ Note: speaker notes FTW!
 
 ### reveal-md
 
-We are going to use reveal-md.
+You are going to use `reveal-md`.
 
-Open terminal and install globally by:
+Open the terminal and install globally by:
 
 ```sh
 npm install -g reveal-md
 ```
 
-Please read:
+If you get access errors messages, fix them. See slide **Node**.
+
+Afterwards, please read:
 
 https://github.com/webpro/reveal-md
 
