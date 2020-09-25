@@ -80,7 +80,7 @@ v1.2.0
 
 #### 08.10.2020
 
-- What is going on my PC MH + MP
+- What is going on on my PC MH + MP
 - Github Organization JS + VK
 - Path Dependency OA + GK
 
@@ -89,7 +89,7 @@ v1.2.0
 #### 15.10.2020
 
 - Ownership MN + ET
-- Network effects ME + MK
+- Network Effects ME + MK
 
 ---
 
