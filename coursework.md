@@ -11,7 +11,7 @@ Coursework
 #### 08.10.2020
 
 - What is going on on my PC MH + MP
-- Github Organization JS + VK
+- [Github Organization JS + VK](https://github.com/jannikalena/2020-ws_dojs)
 - Path Dependency OA + GK
 
 ---
