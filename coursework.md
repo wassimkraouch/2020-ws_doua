@@ -27,7 +27,7 @@ Coursework
 
 - Hierarchy (a natural order?) VO + SiS
 - Hierarchy (the mechanism of power) JM + KW
-- Hierarchy (the good, the bad, and the evil) CP + WOK
+- [Hierarchy (the good, the bad, and the evil) CP + WOK](https://github.com/Chakraborty-p/DOpresentation)
 
 ---
 
